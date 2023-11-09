@@ -1,0 +1,26 @@
+{
+  "name": "Sally Chapman",
+  "age": 33,
+  "address": {
+    "street": "Imli Turnpike",
+    "city": "Asiukzi",
+    "state": "MT",
+    "zip": "93279"
+  },
+  "contact": {
+    "phone": "(424) 960-8488",
+    "servicePhone": "800424878"
+  },
+  "birthday": "1995-12-19T20:42:15.840Z",
+  "ip": "9.167.244.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi opumopuk el gimul ebneji avilesalo pisigo zu dosot potod dasovu se onuztuk zakazwod. Ku sulijab tenmiz iduotla rombe gugfif ildiwa daele cajedim ke sejvu jugacu fikukama. Bupjic hemawo muknek juhjuwu baw ivibi tih ric bo bamfa cohjan efgen.",
+    "bio": "Ekucaf omowum lehpeb gaelo ujiji odcumke ru zu uripiz ehijiim ha agone idejupif vaogu. Lezcohig uhogip ahegovobi noc osetaho vurco hilejemej og azava maned zuuna ro eravba kep gi ta etaaj. Kezroci adohja ofinu tocujam piviri ericevo riami ihoweva gooz pelozoolo vovus wihnois ubjofga oti kuzisef pu coc hoori. Okzuben hegvaus rapjujer bosji ivdeful am buvuhke panes suge beemgec fo ocloc jevel ernibe cimze. Bus gijsede pof kulniwsi kooni deap emloc licad ubi fazvupre gozkipe usiwivga loreh jezelira fugobenuv. Gaj vezag becmibu mijrazab hanat ha vidobere fa biohe oriwifci doncot ca pe moipdu fi."
+  },
+  "apiKey": "70f64d693aaa4240b0c9bf98a902b86c571b193bed5a67c297aee8aec6bf7512",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
