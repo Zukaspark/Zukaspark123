@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Cunningham",
+  "age": 43,
+  "address": {
+    "street": "Omme Square",
+    "city": "Rikgood",
+    "state": "WY",
+    "zip": "18303"
+  },
+  "contact": {
+    "phone": "(507) 827-8477",
+    "servicePhone": "800922549"
+  },
+  "birthday": "2004-12-18T18:54:13.372Z",
+  "ip": "138.125.6.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Asvuf gelbed bofum ij fur ifo hag kivdunke avakac fehampit dutunut luz hu gu vifalof. Pajej raweguz bavigli ruduvtu cetcu dahwisut esce ruw fijhico pafesha zudu er zuvro bojsigu. Poambi ulo gidtuv orofuhew zur issihop ka idu ewju tu semvuvi sataju vojbopod no we le uvo ped. Nupac mejkera bosa vevhib cipizfir suwhesew lon totsowoh nepevbi ju damresub apowaiz mihicob fucwiwje jemrul etavedgu ta. Vufozi oj luwazed bieh zubonoh mob zauviav kafdien aficu kaspe obu uteasite ca raad awsaz kolawko.",
+    "bio": "Dud utohozti guf todeba abla nenimri tiplouvi va vawe pujcul vimane ukenesmod morgok. Ki liscole wejcezpe ne ilipizjuz si ci viodvir avjostic nofomuop zu ipeum. Leklo zeak kocemu ki bukdo raofvam vopda beltugo leammol vu mutmi ozuja be leaku reldaz fabe. Rujamis sidisuc jovacpi hikaneda riclegof pe uc vevzus vodteuvu ahvove bulik hoje sazpa tez ga ikalotos hugjapwub ratluz. Kagtewav ot gaj rir be wisfog hufot duz hez av ag jubhizdo likepka lutvumgab fisod ivive tu. Bacbodo zool petlij jiwva zihig jazef ugego li ageza co gijuwses seogko. Atca ji re coup gizgetivo ikaab nop bocmil dagmit tizuce gek sukgotni fowuk vuho meladego ku."
+  },
+  "apiKey": "b0bb10923b8eddf1743018da08d962e8d27aa8cb7471cf332e78f52e1b56b1c5",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
