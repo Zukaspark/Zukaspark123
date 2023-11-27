@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Chandler",
+  "age": 38,
+  "address": {
+    "street": "Fisuj Lane",
+    "city": "Rudvashap",
+    "state": "MA",
+    "zip": "12394"
+  },
+  "contact": {
+    "phone": "(352) 377-4392",
+    "servicePhone": "800217716"
+  },
+  "birthday": "1987-06-16T12:28:20.791Z",
+  "ip": "164.97.72.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Pavim wu beofdum zolus puz noz no biliha wawu bidonif ef zu. Beot peam catho husazi ha nuvvi niv poz kej cefdujar juziheg ki lus mifasan. Adsuj radziz ik fovsug fehlimoh rodtak morivi fifutke gabeolu fozag ki daebuopu zuj zigir puta kalec tihuda. Ijodisucu tihnitid dev as notelig wot ipehu tuziw hokvu al ezeewlas de vid teji nufdadip ajjefip cemcec. Metle ahuoh ebuwegak gioze duoj baprih sivim wo cobatin tinevme ba volov jobwa foledupu amuv. Kiareuto ko hegengo ofpavna tofe cik mawgozeb riw nujarsoh kanhepu ru bul.",
+    "bio": "Femespib zu arinemo buh ufaibisi tinura waenilu emojudet vawgas ulro tagni fa kub sahovgik virotvov cakagod roipdez pa. Nicdet zeirupi dazjemok coco hi udo cutbet pajag nan hene ugupo dac loweti do worfi. Uggi houmoore mi unugu vus deavgu ila tebuz bagfiono wivsowu jako nejahlu suwema sispiut cael ohguuf."
+  },
+  "apiKey": "5252d883a34bd96d49b58c0fc3c6d04d24a87f21855fea63d2fac4737c6fb939",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
