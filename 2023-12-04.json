@@ -1,0 +1,26 @@
+{
+  "name": "Helena Harrington",
+  "age": 26,
+  "address": {
+    "street": "Wejim Terrace",
+    "city": "Roikon",
+    "state": "VA",
+    "zip": "48592"
+  },
+  "contact": {
+    "phone": "(982) 777-9756",
+    "servicePhone": "800739997"
+  },
+  "birthday": "1965-06-04T12:04:26.257Z",
+  "ip": "57.57.126.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Wetkik aruom nol gagupmi so gajzu weok inejepci zunjufi leg se dal lejab kowhiw guivepec fa viafi. Wuso nidrilze ofodcap ajihuah bus ta agubeb jacetowo emmod roicte jes afool dugesike goov iv. Pew magifko rugdi av liremmoh im rukug iv uzoji letciv vepur ohi juhmo.",
+    "bio": "Vome tad liadnur detiik sur epahedot azipu di tezo mapol pujefe udaso am torguh pop opotod buzis. Fo ino muzev kapeug rep fodhoz tuhef gijdaw soumvi munoril zuz botwidar gicnik pic. Roke tuci eza pufih nuhzi lowucugi ziw zeguliw edalood wapoz widbe hawam wiwcan."
+  },
+  "apiKey": "a17031c96e95c38f722ab0e287817a133f0a136abc93cfbf677a21c205cb0f35",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
