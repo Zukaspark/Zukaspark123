@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Brady",
+  "age": 55,
+  "address": {
+    "street": "Ciddi Glen",
+    "city": "Ogegoval",
+    "state": "AR",
+    "zip": "91489"
+  },
+  "contact": {
+    "phone": "(774) 417-9088",
+    "servicePhone": "800338942"
+  },
+  "birthday": "1998-04-07T22:37:55.361Z",
+  "ip": "113.148.164.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Lahmihjam negce athet boj hojava rifha ec eketiabi wodnobhu toijhe ha sojkupi zuh uw hacnic zusmipza abvi. Diacjo sejzi uziso hu elapofo utaop oro ulu ol so san foriof so. Okiuwa bawkaver neokrig sez vav jeruvfu jernatbic et tohsas do ganrobewe mebodic nijuem daej paisoga hizu. Opomog roj okute mos ekzan dahiv zih nenmien meg bijtizju onjuvati ujijavgov roz.",
+    "bio": "Zewi pag jidub enialitit atvogoj facma wined wawu wa zahnukjeh izefo burisa wohdin bodjevki wu kuffow. Hidse turol milida dojciwem fis vibeflu hepdo hickid pajbiv fagjikfa rojav pom vur. Lowbicdep murcih ithacup kosojo haw watwib wun zonenlo hiubbus cas raogowul poba zo."
+  },
+  "apiKey": "06e3c35d663568902ec3cb0cc398d34dce66fd2a89c02c96e60d1841fc98c962",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
