@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Kelley",
+  "age": 38,
+  "address": {
+    "street": "Oporun Court",
+    "city": "Anisikov",
+    "state": "MS",
+    "zip": "41840"
+  },
+  "contact": {
+    "phone": "(373) 570-5272",
+    "servicePhone": "800762826"
+  },
+  "birthday": "2001-01-20T09:13:39.978Z",
+  "ip": "20.86.46.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Efsav icuborzor de uli usutuza ozu ha az ha te ihavode idci meburca gap. Di moscu nobvofi oj bizhej cuokla imi vuval vog sefveif tubzu uza jabvosoc redubu oki jotipehot ovaga oh. Kuonena hu maj rihzug gaire lip lan sikgusa ubvoz alolah ure namov. Za tow azererede je zefduala kunu cik jeak zapirhan comci bar su kiwcim. Ri wa kafucefur haejapak vordoh gap livotebe lo zu dowbu vihpufun mip lis lazonmi oj ubu.",
+    "bio": "Soik ziota pec feovduk em ta pe vikazok zaka fo ibcejsa lopda jih ijuho ihiezo fitu. Dezmu tafon dubfad upiiwro mewhug amigukiv itrasefi mapuc fubhinus diputdo bohma ricavu miwod pejonev ev zedo pik. Rujow zeumheb pifi kobmimca gi pif zihganac buuk af igutukzu tiobco minkito."
+  },
+  "apiKey": "1c994d99e5dda97dbd44a45b667a5cfa591a2a5339b0fd80ed24ead2495d99d7",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
