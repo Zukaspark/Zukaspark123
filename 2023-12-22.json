@@ -1,0 +1,26 @@
+{
+  "name": "Lula Franklin",
+  "age": 28,
+  "address": {
+    "street": "Tuin Terrace",
+    "city": "Eriziuj",
+    "state": "DE",
+    "zip": "34355"
+  },
+  "contact": {
+    "phone": "(868) 845-7200",
+    "servicePhone": "800521427"
+  },
+  "birthday": "1986-12-06T04:59:36.045Z",
+  "ip": "178.20.50.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Sebvub ba gotbum bavi jakuc cif webimjus gaf vakebil addumme piorfe ifo oj zoicawi ceblazefo. Gah cewac ebanuma nu irju vuglajlo rofvujkeg asa hurcu cow kofu delu usitezseg loepfiz. Lu vumdoz eta akvarek hepuz hez rame jodzil zeto nodfa tuwnagimo nomaku suebi edegeh cecek pihzedpu kesro jaif.",
+    "bio": "Ge cemic lergo hif alitiwma kom su limsiwo fufsu kuvedeb wiwkov cu bazcu hodoc. Ajgi naz cuzafcu epeusne zuczuz fecwi ornak raj uzozelgif hudud ugoamida mus. Morja aw upcom ekepefez darva vepgozaje lu gef awa lezjoddun negnu nabocic ebaudme hetper pednako vejfahmo."
+  },
+  "apiKey": "d9d703d2d9fa16950fe4a0346a9a2bcb9c0d92230dab116545eea23e15d6fa4f",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
