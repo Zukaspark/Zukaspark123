@@ -1,0 +1,26 @@
+{
+  "name": "Sam Holt",
+  "age": 63,
+  "address": {
+    "street": "Balnun Turnpike",
+    "city": "Ebvire",
+    "state": "NC",
+    "zip": "85919"
+  },
+  "contact": {
+    "phone": "(784) 285-2747",
+    "servicePhone": "800897157"
+  },
+  "birthday": "1991-12-30T22:16:51.172Z",
+  "ip": "189.166.144.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Rez foop zif uhme sonubeta jihozol egvuc oneodi zedtu ule naaribit dejom gilti. Oho suf sojewo lun la pafeg me elasiju vawuho wupu asorozam hofin wonute redodi eblo matuw. Codnevute wahbuzne nuknenbev nunejo gip ciz vavizpir dup suzumago li jizbarol tictuv ehzu ajubaf zocuhe ba reg. Itigaigu lob ce iduguh palawbo ahijo ur loude udnela huk etza votsonoh dehjeg revmu kurih.",
+    "bio": "Folohez tiibuzi of be unusubu zapasum zutbabzi wis begomuse lacowiv uho acupa pul fa ipoc up sikzim. Waf warupdid mockin dewlus foh wuni lekuzna zo opumac pid janeg ov. Mel cizhu avucallu upa but fojdanud ehe joj wacuc li mogifsi hed ociagariv weig zagje fewju."
+  },
+  "apiKey": "d98021e454108e9304e0ab071c969d7b9174214c2a40a8e398e4fb779a502c14",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
