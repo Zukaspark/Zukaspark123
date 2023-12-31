@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Lynch",
+  "age": 25,
+  "address": {
+    "street": "Ofagu Park",
+    "city": "Vojuzef",
+    "state": "FL",
+    "zip": "34664"
+  },
+  "contact": {
+    "phone": "(804) 340-1450",
+    "servicePhone": "800662889"
+  },
+  "birthday": "1969-10-22T13:40:50.751Z",
+  "ip": "209.118.235.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Sugadfe tede kemwec osfome hoima bab mos mid biras lesi pu ujsemtis si. Hiw pe lufwiev ev zohivu hitod obtidob bopogu pijowjah gewhavwam agditgo pob. Hi suz do tetet ruje dodcar kolesza iv rejevo zuet lah rapdavus. Tu wavduhtuz gebhi da lagfuz kotihib fuwub zuj fovaj bopzuma cu nil seccoc bosa getonlik minojeh.",
+    "bio": "Ka livuf kujo gi gasida loka lu tirjero samos owifom soipifu as. Doh uteaze so ude zok eg guv mozam sufwotuhe lout hojibmip ezi rub pap eze zuow. Bujo he abeivipo bil wig saemap zor fivuf hisvek cu udveg wibuvbep vofajge te bo ta pop henvabtow."
+  },
+  "apiKey": "49e21e5c5909373cc4d9791edd8ab0ac546fd235e5c63bcd855a93372cfd5183",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
