@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Schneider",
+  "age": 22,
+  "address": {
+    "street": "Vijno Turnpike",
+    "city": "Zoribnum",
+    "state": "UT",
+    "zip": "00035"
+  },
+  "contact": {
+    "phone": "(208) 652-4327",
+    "servicePhone": "800211416"
+  },
+  "birthday": "2001-11-27T16:19:12.452Z",
+  "ip": "31.84.93.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Gesculwa oso farziwup hehuew ub lisda todtapodi husge to affe emuila gabul awobolle am ibu joodnol sackini. Wooh semihno tolilder sairtot soc ban cifocek hegik apozojij es vabda dog ukbazdaw. Upunap dodridbug iboda sojanwe ina dan riv nec lo ucimiifa kefad ze kas cepza ik erkiwe. Opu mi nevo amsufuj na jocferev zabnuese lenfus telfozsec vephoj mo izem som ham lijde lerki vamimuv. Cijga menarud naricte varwuteb zopactud wab dulma weplo edanotuc pebfumgir ohi et viagure pa muol. Fi uzgog lok ci du tidcor jalri seche hinirca le zazon kisuf dazam sitmacis baaso te gopuhemen boci.",
+    "bio": "Jakestak velfekso sugakit apmatloz nargumut ca gi go utba ketuwupu utuah itojud sibapu oganarur pufen ajowib gawminez. Kuz armaf ke fijguk cabkafrac zurujopi rev giivuis lac jonujja jok wuafpu humgaf gam binovem. Riknorsut zi siitoeg ije iziwegesa el neh tin ojwesvi wim us deserse iro loz ija riva. Huf dunu isunaf enookfil bin fuscaf zopon fo piififa iscec tat mag rotitaz ranfoafo."
+  },
+  "apiKey": "dc0969eefea29970db320a01b11503d64e25bbf9fd90f9add07b374f6290a989",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
