@@ -1,0 +1,26 @@
+{
+  "name": "Jay Simon",
+  "age": 59,
+  "address": {
+    "street": "Cawom Circle",
+    "city": "Kechuno",
+    "state": "ME",
+    "zip": "98941"
+  },
+  "contact": {
+    "phone": "(212) 631-8880",
+    "servicePhone": "800596777"
+  },
+  "birthday": "1975-07-13T07:10:41.148Z",
+  "ip": "181.73.236.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Wi esusuha deutivo diuw iji gorgaj tuvezo voz radokke ame jozuguho fofjod pijve. Ba jilos ukmurzec owunap oze ubeuze ihasol kib ajobi jovetaf kanad nef gusorva. Beper innizun ja zagpo mimorguz ibomeul bulfime fezwim za bigimdo hobgohu bul wud moz pih pevaz. Ew ci nirike ivjibi onojcir oga piro ratsew ga dajru nagad nodjij. Kob na tunpari cazun ucvilot bi ilufieke puwe tampoop da zisno hod nojbiim de tucopo ozo. Filis obruf zom fasauc wum bozlejdul siil roh tero suniv dono wik deopaav ta sihuk. Giugoto codles sihhudol caf gisgur ated wibfivdoh uvad nipuvuvo ifemin sili futiheg oszehoj.",
+    "bio": "Ga la rug man tevi zadic embojgup pop tuz zuja akedijo ci cetil wevuza. Buvgig kuemaoc gehurihu zifke cif kakopfo hejzurcaz ejzeol cij vibbu bu lehfev. Olveoh hono til za iso va wilza jajvaan evcu deszoepu ma fatuv. Uferec so famob ditvillen reafpoj belbuzel mike fuevajuf cu nek hejzubid kas zon tup hopwokjus hovna."
+  },
+  "apiKey": "23f26025cb0df665aea9cd6bffb324d3311d7c95152154424c22fc6c46fec8f8",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
