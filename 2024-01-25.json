@@ -1,0 +1,26 @@
+{
+  "name": "Randall Goodman",
+  "age": 65,
+  "address": {
+    "street": "Dekfa Point",
+    "city": "Bijdelju",
+    "state": "NY",
+    "zip": "83048"
+  },
+  "contact": {
+    "phone": "(710) 306-3011",
+    "servicePhone": "800584999"
+  },
+  "birthday": "1962-05-31T23:04:48.640Z",
+  "ip": "148.131.130.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Juh wun ozvovev jo miviz razis foum giagtu pi fedec wunvanut kacugubus kiw fihi motu ej pez peugda. Wi bolot zughej femtom wetesos zam ufo pudoheg zaf bomope kecmal sisleibo. Ilugedi jo zew ono wopejad ca cala mopcolo onawaid az munofwa enuappaw ragligzes mi puba ildowcen osoeznen ujogekit.",
+    "bio": "Roivmam oregigu nowhem cevud ru wujlobi he owo ziage ow domahwah uv mirika. Udutit kakarjip damauwo jog mit dogjiv natumpuz ma ba ero huvidzot zeukujeg ju mi gogfocget ve. Hekkuvtuf mil rebufod fulporru mote sazbogvu zokdu pebimuden kic wibvobce bimuzdab ku oca gec."
+  },
+  "apiKey": "45129259f436a2313421125a2ab67c150f885d1135fbd0e39889c7e2442c74d0",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
