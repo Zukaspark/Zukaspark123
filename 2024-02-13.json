@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Thomas",
+  "age": 49,
+  "address": {
+    "street": "Gifas Boulevard",
+    "city": "Dechubhan",
+    "state": "MN",
+    "zip": "00351"
+  },
+  "contact": {
+    "phone": "(625) 981-3539",
+    "servicePhone": "800237483"
+  },
+  "birthday": "1993-07-23T22:08:31.567Z",
+  "ip": "107.55.181.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Tik jovjuh usgaar vobbeeg vel ana alu subop kaz ha nu pivik nodasa. Daafda usuma aga wamo fukot goc dupa dilgub tommavoc kigzigap kimse piwuwa wadwu dukdibvas luroc. Guhvuk hasfec vi wat rukfuidi can ekipu me larawa ga iwedugalu duoze peig ecbap tij.",
+    "bio": "Kihofvop puc fuljoow mo sevsum wus goh we hid sossofo pilup gov imtu eporehun aseva jepdu wudizga. Wociz tapci suri sufinudeb kono tecezo ozwadco refso eva fov omzo heezage cupci. Heroso lil domam ki fuvuw in camobipan utaveki bapit pakfedes orito eso puzakdef hep be bubabot defu diovmu. Moubiid kifo petrus von hain tod budjuc nagolfor mi var fu put ze zu hi. Ri apuduhfil wotgaog oparag wele seli zowvagar imogeb mufobdup najlipe bu sozifab."
+  },
+  "apiKey": "80f7e1547570c33e20d8cc161b29843b51cd2695eaffc702621b9499cf39d41a",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
