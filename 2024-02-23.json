@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Taylor",
+  "age": 30,
+  "address": {
+    "street": "Umcu Heights",
+    "city": "Wogpata",
+    "state": "WA",
+    "zip": "99454"
+  },
+  "contact": {
+    "phone": "(629) 753-3607",
+    "servicePhone": "800325721"
+  },
+  "birthday": "1962-04-16T15:54:20.638Z",
+  "ip": "24.23.233.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Ico afe teju mugcatar fofo dostu fizojsec momce em nu fojmare baw azjopi ifopa esfegic ed cepmi. Dijhitbo meuliwe rilvod mag zoeshu pifbip kiugo gelture rekut umepgah opobaro tu kebu urura. Vethez hedhilgo su ko cipwero kiz te ma cuz ru fokeb wuzikni fij repov sebe ambisik ildikwu orlus.",
+    "bio": "We donuvdi pe cos keroje pec diduncu ozipapego comuv fuk nujwa nojhe nodo set. Gavul kacwik tugocat inwe vajegebe lufom cewlipbo mibakoso um amcac wuf fibtu. Gatlaboj uvselwok fisbe curhav wufmuwpi von etuwoh vabe tibe mosgi is jam wersa regazsi buzi zavtagu lo."
+  },
+  "apiKey": "eb34a842ec4430afdcb46888a422ff821ce30c6825be56cddb597056d6e2fb27",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
