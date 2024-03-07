@@ -1,0 +1,26 @@
+{
+  "name": "Mina Harper",
+  "age": 59,
+  "address": {
+    "street": "Fani Court",
+    "city": "Jugetle",
+    "state": "IA",
+    "zip": "78581"
+  },
+  "contact": {
+    "phone": "(964) 702-6260",
+    "servicePhone": "800881165"
+  },
+  "birthday": "1997-06-10T13:19:16.647Z",
+  "ip": "60.173.60.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Biz te taobgo virilbi lonarobe zar utezabiza nisov sorocmi na ugapum jenut otni doffunoj fiiko woni vuicuvi. Lo raige hu lo lobvuklal suwe uciateze dokhiv nucben ommer imuvak zithapab delosico ewugirmov kewan. Lo wugni wirzumu as loluvpof gi badaciuju kezissa bufrev veliw uc fiuv sifuclog. Farvu tuneh mim dicgu pi liw zok miduhzos lobalu ihiugzo hocoret felih.",
+    "bio": "Vibtunir gikwap ijo udka li ezu foj jucejfic bucjad hepodare epe al orde rob ica. Kuwepzob tulakfuc fi vaz fi us leni jiroojo zasvep hon mukvum lod mow geab inoajo wadiw ad nioppuc. Hus la woidfij kivvopvu napo kaso hotunu rur manuvur fiemja uf hako zirimov. Uzesawlo ate lodjo nareb ta gon nimo wutusi fupolu bi pabe ca."
+  },
+  "apiKey": "706c61aacc11dd7fb86a2d751c5578d71b240c7bfeb0fbd8498068b6b32571b6",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
