@@ -1,0 +1,26 @@
+{
+  "name": "Ada Barnett",
+  "age": 39,
+  "address": {
+    "street": "Wuata Drive",
+    "city": "Vuhcimop",
+    "state": "NH",
+    "zip": "74050"
+  },
+  "contact": {
+    "phone": "(346) 824-1521",
+    "servicePhone": "800522283"
+  },
+  "birthday": "1997-11-23T21:02:48.411Z",
+  "ip": "91.181.183.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Reveca luzki nu modiwup aberegrut botma si meb ut cidi vukauj zosfat. Uluvafo zivo cij sajo momagwu cit nazi za fufom aju abisa voj so seoti. Wez leuzu riiwe kunago usjulcos inmuvu no nigripe ap acuerefok cenpi vuwfuw.",
+    "bio": "Ciwut ocubohib sir seezmic fulon woshim funrujmar ut ot bin na onoiblog japwadahu cew. Sut va aze lam belin vuj beku kogav won sokakok ovcar duskul zechorit co lupbi ofel bozfaw. Tivufzev vu ojulipto ful kimuc zej tizof wig akamaw baf ra etkuek nuwzos. Obi dim nap zowujom pik ade sa hin mapki nesboato leruzeb na laf ujetid liul ca kef apababi."
+  },
+  "apiKey": "a680f903a0900ca580632e1f63721a680fc5d4c4aa8f696375f412b75ea8d47f",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
