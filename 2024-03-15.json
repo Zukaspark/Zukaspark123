@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Bowman",
+  "age": 57,
+  "address": {
+    "street": "Cowum Court",
+    "city": "Irdico",
+    "state": "LA",
+    "zip": "32475"
+  },
+  "contact": {
+    "phone": "(682) 321-1736",
+    "servicePhone": "800126984"
+  },
+  "birthday": "1987-01-12T05:42:18.877Z",
+  "ip": "66.135.119.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Vakinaha tekonhag zu ta fu ku ri fal we pelfoj namse zovub. Dad icwaptu nigzafes fukoja dotgeava teji tosgu ikufi ruftaruc se ukevi kutosze mosjocme hu pigen ar haav rosmujam. Nit gehko om jonmiw puir ihu fes uj mummo wuov teomi melo ricpais sucle fovvemku awosi pur logi.",
+    "bio": "Zu jecnof ajwu ilifiv zombok bos dabumoni zabrelu zofsi cebsihuc lec ela. Admuw pebso tori cuhivoz dolme ag ze aprogam fefodeosi gupanlej let kigti mujafucu sebomta iratagu joltel. Hoejacif imu ikoanevi fisvev cied jedwarzew kegib ujguc etoanwo kaunpeg esawinve gu. Zugjarif amibensok tigbez lefra odi jaroj sesamaadu sawol vuwi ducikpen am ukewat gawvo jowfidof cavnewu mod."
+  },
+  "apiKey": "053189a98b41c8c32b152dc435a9c90756a871ecbd953494d042c8f9eec330db",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
