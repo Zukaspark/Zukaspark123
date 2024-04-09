@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Turner",
+  "age": 50,
+  "address": {
+    "street": "Veesi Center",
+    "city": "Hojvagpob",
+    "state": "ME",
+    "zip": "87483"
+  },
+  "contact": {
+    "phone": "(529) 770-5824",
+    "servicePhone": "800355632"
+  },
+  "birthday": "1959-12-09T17:19:25.038Z",
+  "ip": "144.46.19.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Huw paku hamweb bevtu reswito de zo bo jiwlugul zosul col foow div ni. Pu dadurec raf cezpo ihmoej bonasje zocahi nu ni locek on zu gecez lowga efo ebsozvo du. Nujokocad ihu zawajfut othiipo ujeir civric luwhab to ewalut opuju jikkiwti nemkol otenebo zuf zeimi. Dajuoca omuju ug bizik ag miokupok tow pukom veralduh fecsum mindop bame acecociwa ozrufe velziumo.",
+    "bio": "Vawpulbed ope upu devadin ruahlev licomhoc dajo pufozod hin ugibenvuz jalnoc cukta bodlehnuv ifoih cobkar zubwerede. Sim suhmuli jar tapcoc cedoru cub nolnutti ineporka alu ewacef cojfuene meom oci hize. Bot li juje botat lomonmev tidop fulso afu uh dozmit eto fidagco."
+  },
+  "apiKey": "e3e0320f1d250b9ceefffd217127e0370ba36a5d31e3631b66bb1b73730846ab",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
